@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Loja
+comment1.params=
+comment1.target=Loja()
+comment10.params=
+comment10.target=Loja\ clone()
+comment11.params=
+comment11.target=java.lang.String\ stringtoFile()
+comment2.params=username\ codigo\ password\ locationX\ locationY\ email
+comment2.target=Loja(java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ double,\ java.lang.String)
+comment3.params=p
+comment3.target=Loja(Loja)
+comment4.params=
+comment4.target=java.util.ArrayList\ getqueue()
+comment5.params=queue
+comment5.target=void\ setProdutos(java.util.ArrayList)
+comment6.params=
+comment6.target=boolean\ getfiladeEspera()
+comment7.params=filadeEspera
+comment7.target=void\ setfiladeEspera(boolean)
+comment8.params=o
+comment8.target=boolean\ equals(java.lang.Object)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=12
